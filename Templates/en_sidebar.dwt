@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>生醫所核心設施-核酸定序設施 服務平台</title>
+<!-- TemplateEndEditable -->
+<link href="../css/equip_en.css" rel="stylesheet" type="text/css" media="screen">
+<link href="../css/equip.css" rel="stylesheet" type="text/css" media="screen">
+
+<style>
+
+#article {
+	float:left;
+	width:65%;
+	text-align:justify;
+}
+
+#article h5 {
+	background:url(../image/faqs.gif) no-repeat;
+	height:45px;
+	padding-left:60px;
+	padding-top:20px;
+	/border:1px red solid;
+}
+
+#article h6 {
+	margin-bottom:0.5em;
+	color:#369;
+}
+
+</style>
+<!-- TemplateBeginEditable name="樣式編寫" --><!-- TemplateEndEditable -->
+
+</head>
+
+<body>
+<div id="header">
+	<div class="container">
+    <span>Core Facilities</span>
+    <h1>DNA Sequencing (INTRANET)</h1>
+    <span>| <a href="#">中文版</a> |</span>
+    <a href="http://www.ibms.sinica.edu.tw/" target="_blank">    <img src="../image/ibmstitle.png" width="292" height="89">
+    </a>
+    </div>
+</div>
+<hr>
+<div id="content">
+	<div class="container">
+        <div id="menu">
+        	<ul>
+            	<li><a href="../index_en.html">Platform</a></li>
+            	<li><a href="../en_page/announce.html">Announcement</a></li>
+            	<li><a href="../en_page/member.html">Member/Contact us</a></li>
+            	<li><a href="../en_page/service_en/service.html">Service/FAQs</a></li>
+            	<li><a href="../en_page/publication.html">Publication list</a></li>
+            	<li><a href="../en_page/link.html">Links</a></li>
+            	<li><a href="../en_page/submit.html">Submit samples</a></li>
+            </ul>
+        	        </div>
+        <div id="main">
+<!-- TemplateBeginEditable name="標題二" -->
+        <h2>Service/FAQs</h2>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="文章" -->        <img src="../ch_page/img/20160712153837d640220151.jpg" width="650" height="600">
+        <div id="article">
+          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+        </div>
+        <!-- TemplateEndEditable -->		<div id="sideBar">
+<!-- TemplateBeginEditable name="側邊欄" -->
+          <ul>
+            <li>Can I use the 8-strip tubes ？</li>
+            <li>If I have question about my sequencing data, what kind of  the information that I should provide？</li>
+            <li>What should I do if some kind of the information is wrong on my sequencing application form？</li>
+          </ul>
+        <!-- TemplateEndEditable -->
+        </div>
+        </div>
+</div>
+</div>
+<hr>
+<div id="footer" class="container">
+	<div>
+    <div id="footerLogo"><span><a href="#">Intra Home</a></span><img src="../image/footerlogo_en.png" width="257" height="147">
+    </div>
+    	<div id="footerSupports">
+        <h4>Supporting Groups</h4>
+    	<ul> 
+        	<li><a href="#">Administrative office</a></li>
+        	<li><a href="#">General affairs</a></li>
+        	<li><a href="#">Safety office</a></li>
+        	<li><a href="#">Computer room</a></li>
+        	<li><a href="#">Computer room 1</a></li>
+        	<li><a href="#">Medical art room</a></li>
+    	</ul>
+        </div>
+        <div id="footerCores">
+        <h4>Core Facilities</h4>
+    	<ul> 
+   	  	  <li><a href="#">Common Equipment</a></li>
+        	<li><a href="#">Proteomics</a></li>
+        	<li><a href="#">Flow cytometry</a></li>
+        	<li><a href="#">Electron microscopy</a></li>
+        	<li><a href="#">Light microscopy</a></li>
+        	<li><a href="#">DNA sequencing</a></li>
+        	<li><a href="#">Pathology core</a></li>
+        	<li><a href="#">Experimental animal facility</a></li>
+        	<li><a href="#">AAV core</a></li>
+        	<li><a href="#">Adenovirus lab</a></li>
+        	<li><a href="#">Transgenic lab</a></li>
+        	<li><a href="#">BioIT</a></li>
+    	</ul>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>

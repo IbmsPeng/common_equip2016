@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>生醫所核心設施-核酸定序設施 服務平台</title>
+<!-- TemplateEndEditable -->
+<link href="../css/equip_ch.css" rel="stylesheet" type="text/css" media="screen">
+<link href="../css/equip.css" rel="stylesheet" type="text/css" media="screen">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="header">
+	<div class="container">
+    <span>核心設施</span>
+    <h1>核酸定序設施 (INTRANET)</h1>
+    <span>| <a href="#">English Version</a> |</span>
+    <a href="http://www.ibms.sinica.edu.tw/" target="_blank"><img src="../image/ibmstitle.png" width="292" height="89"></a> 
+    </div>
+</div>
+<hr>
+<div id="content">
+	<div class="container">
+        <div id="menu">
+        	<ul>
+            	<li><a href="../index_ch.html">服務平台</a></li>
+            	<li><a href="../ch_page/announce.html">公告事項</a></li>
+            	<li><a href="../ch_page/member.html">人員與職掌 / 聯絡我們</a></li>
+            	<li><a href="../ch_page/service_ch/service.html">服務事項 / 常見問題</a></li>
+            	<li><a href="../ch_page/publication.html">已發表文獻</a></li>
+            	<li><a href="../ch_page/link.html">常用連結</a></li>
+            	<li><a href="../ch_page/submit.html">申請定序服務</a></li>
+            </ul>
+        	        </div>
+        <div id="main">
+<!-- TemplateBeginEditable name="標題二" -->
+        <h2>服務平台</h2>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="文章" -->        <img src="../ch_page/img/20160712153837d640220151.jpg" width="650" height="600">
+        <div id="article">
+          <p>目間安理自角環風景裝父站作全不養乎引不操直約語空質自字是進作維父小因什友小苦。同投用西書期學共已。為主建天卻境正聲各三傷考下國，素快成庭孩兒國公物去斷本，水國那。</p>
+          <p>管國紀腳一吸有下媽收上司？史古電輕它己十孩親直亞？</p>
+          <p>內國股們當是打是式你管的感道解麼而。</p>
+        </div>
+        <!-- TemplateEndEditable -->
+        </div>
+</div>
+</div>
+<hr>
+<div id="footer" class="container">
+	<div>
+    <div id="footerLogo"><span><a href="#">內部首頁</a></span><img src="../image/footerlogo_ch.png" width="257" height="106">
+    </div>
+    	<div id="footerSupports">
+        <h4>行政支援</h4>
+    	<ul> 
+        	<li><a href="#">行政室</a></li>
+        	<li><a href="#">總務室</a></li>
+        	<li><a href="#">安全室</a></li>
+        	<li><a href="#">電腦室</a></li>
+        	<li><a href="#">電腦室1</a></li>
+        	<li><a href="#">美工室</a></li>
+    	</ul>
+        </div>
+        <div id="footerCores">
+        <h4>核心設施</h4>
+    	<ul> 
+        	<li><a href="#">公用儀器室</a></li>
+        	<li><a href="#">蛋白質體核心</a></li>
+        	<li><a href="#">流式細胞分選</a></li>
+        	<li><a href="#">電子顯微鏡</a></li>
+        	<li><a href="#">光學顯微鏡</a></li>
+        	<li><a href="#">核酸定序設施</a></li>
+        	<li><a href="#">病理核心室</a></li>
+        	<li><a href="#">實驗動物中心</a></li>
+        	<li><a href="#">AAV核心設施</a></li>
+        	<li><a href="#">腺病毒研究室</a></li>
+        	<li><a href="#">基因轉殖室</a></li>
+        	<li><a href="#">生資生統諮詢</a></li>
+    	</ul>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>

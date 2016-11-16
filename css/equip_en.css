@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+
+h2 span {
+	color:#F30;
+	font-weight:bold;
+}
+
+p {
+	/margin-bottom:1em;
+}
+
+#footer {
+	font-size:0.8em;
+	/border:red 1px solid;
+}
+
+#footerSupports {
+	float:left;
+	margin-left:10%;
+}
+
+#footerSupports ul {
+	float:right;
+	width:21em;
+	margin-right:-1em;
+	/border:red 1px solid;
+}
+
+#footerSupports li {
+	width:10em;
+	text-align:right;
+}
+
+#footerSupports h4 {
+	text-align:right;
+}
+
+#footerCores ul {
+	width:27em;
+}
+
+#footerCores li {
+	width:13em;
+}
+
+@media screen and ( min-width:1201px ) and ( max-width: 1400px ){
+
+#footerSupports h4 {
+	/border:yellow 1px solid;
+}
+
+#footerSupports {
+	margin-left:4%;
+	/border:black 1px solid;
+}
+
+}
+
+@media screen and ( min-width:986px ) and ( max-width: 1200px ){
+
+#footerSupports ul{
+	width:5em;
+	/border:red 1px solid;
+	margin-right:5em;
+}
+
+#footerSupports li a:link {	
+	float:left;
+}
+
+#footerSupports {
+	margin-left:8%;
+}
+
+#footerSupports h4 {
+	text-align:left;
+}
+
+}
+
+@media screen and ( min-width:946px ) and ( max-width: 985px ){
+
+#footerSupports ul{
+	width:5em;
+	/border:red 1px solid;
+	margin-right:5em;
+}
+
+#footerSupports li a:link {	
+	float:left;
+}
+
+#footerSupports {
+	margin-left:2%;
+}
+
+#footerSupports h4 {
+	text-align:left;
+}
+
+}
+
+@media screen and ( min-width:768px ) and ( max-width: 945px ){
+
+#footerSupports ul{
+	width:5em;
+	/border:red 1px solid;
+	margin-right:5em;
+}
+
+#footerSupports li a:link {	
+	float:left;
+}
+
+#footerCores ul{
+	width:12em;
+}
+
+#footerSupports h4 {
+	text-align:left;
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+	
+#footerSupports ul{
+	width:5em;
+	/border:red 1px solid;
+	margin-right:5em;
+}
+
+#footerSupports li a:link {	
+	float:left;
+}
+
+#footerSupports {
+	margin-left:2%;
+}
+
+#footerCores ul{
+	width:12em;
+}
+	
+}

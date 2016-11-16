@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main img {
+	float:left;
+	width:40%;
+	height:40%;
+}
+
+#article dd {
+	margin-left:-1em;
+	line-height:1.3em;
+}
+
+.member {
+	float:right;
+	margin-bottom:3em;
+	width:49%;
+	/border:1px blue solid;
+}
+
+.member:nth-child(odd) {
+	float:left;
+	/border:1px red solid;
+}
+
+.member div{
+	float:left;
+	margin-left:0.5em;
+	width:57%;
+	/border:1px red solid;
+}
+
+
+.member h6{
+	color: #A23C22;
+	font-family: "Arial Black", "微軟正黑體";
+	font-size:1.2em;
+	margin-bottom:1em;
+}
+
+.member dt{
+	margin-top:1em;
+}
+

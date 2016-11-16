@@ -1,0 +1,343 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import "reset.css";
+
+
+html {
+	background:url(../image/bg.png) repeat-y;
+}
+
+body {
+	background:url(../image/headerbg.png) repeat-x;
+	font-size: 20px;
+}
+
+.container {
+/border:red 1px solid;
+	float:left;
+	width:100%;
+}
+
+#header	{
+	height:165px;
+	width:85%;
+	margin:0 auto;
+}
+
+h1, h2 {
+	font-weight:bold;
+	color: #A23C22;
+}
+
+h1	{
+	font-family:"Times New Roman", Times, serif;
+	font-size: 1.8em;
+	float:left;
+}
+
+h2 {
+	font-family: "Arial Black", "微軟正黑體";
+	font-size:1.2em;
+	margin-bottom:2em;
+}
+
+hr{
+	border: 2px solid #A23C22;
+	clear:both;
+	margin-top:2px;
+}
+
+#header span{
+	font-family:Arial, "微軟正黑體";
+	font-weight:bold;
+	font-size: 22px;
+	color: #FFFFFF;
+	text-shadow: 0px 2px 4px rgba(0,0,0,0.50);
+	display:block;
+	margin-top:30px;
+	margin-bottom:5px;
+}
+
+#header img {
+	display:block;
+	float:right;
+	margin-top:-1.5em;
+}
+
+#header h1+span {
+	text-shadow:none;
+	font-size:0.7em;
+	display:block;
+	float:right;
+	margin-left:2em;
+	padding-top:0.5em;
+	font-weight:normal;
+	color:#000;
+}
+
+#header h1+span a:link, #header h1+span a:visited {
+	color:#000;
+}
+
+#header h1+span a:hover {
+	text-decoration:underline;
+}
+
+#content {
+	background:url(../image/bg.png) repeat-y;
+	width:85%;
+	margin:2em auto;
+	line-height:1.3em;
+	/border:red 1px solid;	
+}
+
+a:link {
+	text-decoration:none;
+}
+
+#menu {
+	float:left;
+	margin-bottom:3em;
+	width:20%;
+}
+
+#menu ul li {
+font:bold 16px /40px Arial, "微軟正黑體";
+text-align:center;
+text-shadow: 0px 1px 0px #FFFFFF;	background-image: linear-gradient(-180deg, #D8D8D8 0%, #63B4E6 100%);
+width:200px;
+height:40px;
+border: 1px solid #979797;
+box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.20), inset 0px 2px 0px 0px #FFFFFF;
+border-radius: 5px 25px 5px 25px;
+margin-bottom:1.5em;
+overflow: hidden;
+}
+
+#menu ul li:hover {
+	background-image: linear-gradient(-180deg, #E6D7AA 0%, #E2A90D 100%);
+}
+
+#menu ul li a {
+	display: block;
+}
+
+
+#menu ul li a:link, #menu ul li a:visited {
+	color: #4A4A4A;
+}
+
+#main {
+	float:left;
+	margin-left:8%;
+	width:70%;
+	margin-bottom:2em;
+}
+
+
+p {
+	margin-bottom:1em;
+}
+
+#main img {
+	float:right;
+	width:50%;
+	height:50%;
+}
+
+#article {
+	font-size:16px;
+	/border:1px red solid;
+}
+
+#article h5 {
+	color:#A23C22;
+	margin-bottom:1.5em;
+	font-weight:bold;
+}
+
+#article dl{
+	margin-bottom:1em;
+}
+
+#article dt {
+	font-weight:bold;
+}
+
+#article dd {
+	padding-left:1em;
+}
+
+#article ol {
+	margin-left:2em;
+}
+
+#article ol li {
+	list-style-type:decimal;
+}
+	
+#article a:hover {
+	text-decoration:underline;
+}
+
+#sideBar {
+	float:right;
+	width:30%;
+	border:1px #CCCCCC solid;
+}
+
+#sideBar h5 {
+	padding-top:1em;
+	text-align:center;
+}
+
+#sideBar ul{
+	padding:1em 1em 1em 1.5em;
+}
+
+#sideBar li{
+	font-size:0.9em;
+	color:#999;
+	line-height:1.3em;
+	margin-bottom:0.5em;
+}
+
+#sideBar li a{
+	color:#999;
+}
+
+#sideBar li a:hover{
+	text-decoration:underline;
+}
+
+#footer {
+	font-family:Arial, Helvetica, sans-serif, "微軟正黑體";
+	background: #366797;
+	/border:red 1px solid;
+	padding:2em 0;
+	margin:0 auto;
+	margin-top:-5px;
+}
+
+#footer>div {
+	/border:red 1px solid;
+	width:85%;
+	margin:0 auto;
+}
+
+#footerLogo {
+	float:left;
+	/border:red 1px solid;
+}
+
+#footerLogo span a {
+	font-weight:bold;
+	color: #FF3700;
+	display:block;
+	text-align:right;
+	text-decoration:underline;
+	margin-bottom:0.5em;
+}
+
+#footerSupports {
+	float:left;
+	/margin-left:10%;
+}
+
+#footerSupports li, #footerCores li {
+	line-height:1.5em;
+	float:left;
+}
+
+#footerSupports li a:link, #footerSupports li a:visited {
+	text-align:right;
+	color: #A6CFFF;
+text-decoration:none;
+}
+
+
+#footerCores li a:link, #footerCores li a:visited {
+	color:#FFBA00;
+/border:red 1px solid;
+}
+
+#footerSupports li  a:hover, #footerCores li a:hover {
+	color: #FFFFFF;
+}
+
+#footerCores {
+/border:red 1px solid;
+	/margin-left:13%;
+	float:right
+}
+
+#footerSupports ul {
+	color: #A6CFFF;
+float:right;
+/border:red 1px solid;
+}
+
+#footerSupports ul, #footerCores ul{
+/border:red 1px solid;
+	margin-top:0.8em;
+}
+
+h4	{
+	font-weight:bold;
+	color: #FFFFFF;
+	border-bottom: 2px #FFFFFF dotted;
+}
+
+
+
+@media screen and ( min-width:1201px ) and ( max-width: 1400px ){
+
+#header	{
+	width:90%;
+}
+
+#content {
+	width:90%;
+}
+
+#footer>div {
+	width:90%;
+}
+
+}
+
+@media screen and ( min-width:768px ) and ( max-width: 1200px ){
+
+#header	{
+	width:95%;
+}
+
+#content {
+	width:95%;
+}
+
+#footer>div {
+	width:95%;
+}
+
+
+
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+
+#header	{
+	width:95%;
+}
+
+#content {
+	width:95%;
+}
+
+#footer>div {
+	width:95%;
+}
+
+}
